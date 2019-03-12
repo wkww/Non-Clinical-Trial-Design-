@@ -1,7 +1,7 @@
 # Non-Clinical-Trial-Design-
 
 #### Placebo Controlled 2 group Trial Design Derivations and Calculation for a CGLP non clinical. 
-Basic statistics for the above trial design as well as derivations of formulas and example size determination for a CGLP trial size, as conducted by an FDA CGLP compliant (certified) Lab. 
+Basic statistics for the above trial design as well as derivations of formulas and example size determination for a CGLP trial size, as conducted by an FDA CGLP compliant lab. 
 
 <img src="https://github.com/wkww/Non-Clinical-Trial-Design-/blob/master/assets/2.png" width="500"></img>
 ##### etc.
